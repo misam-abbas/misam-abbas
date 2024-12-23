@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @misam-abbas
-- 🌱 I’m currently learning PHPPHP
-- 💬 Ask me about PHP
+- 👋 Hi, I’m **@misam-abbas**
+- 🌱 I’m currently learning **PHP**
+- 💬 Ask me about **PHP**
 - 📫 How to reach me misam5208@gmail.com
-- ⚡ Fun fact: My daily routine: Coffee, coding, problem-solving, learning, and always making time for a little creativity!"
+- ⚡ Fun fact: **My daily routine: Coffee, coding, problem-solving, learning, and always making time for a little creativity!"**
