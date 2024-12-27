@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Misam-Abbas</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/developer.gif" width="190" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misam-abbas&label=Profile%20views&color=0e75b6&style=flat" alt="misam-abbas" /> </p>
 
 - 🌱 I’m currently learning **PHP**
