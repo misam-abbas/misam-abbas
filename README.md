@@ -207,11 +207,6 @@ A growing collection of experiments weaving AI into modern web features.
 
 <div align="center">
 
-### 📊  GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=misam-abbas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" />
-
-<br/><br/>
 
 ### 🔥  GitHub Streak
 
