@@ -46,7 +46,7 @@ Passionate about building modern, responsive, and high-performance web applicati
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,markdown" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
 </p>
 
 ### Frameworks & Libraries
