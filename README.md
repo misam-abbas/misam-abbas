@@ -207,18 +207,6 @@ A growing collection of experiments weaving AI into modern web features.
 
 <div align="center">
 
-### 🎧  Now Playing
-
-<a href="https://open.spotify.com/user/31hfyq5pazl6prybjznsgndnx34e">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31hfyq5pazl6prybjznsgndnx34e&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=A855F7&bar_color_cover=true" />
-</a>
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-
 ### 📊  GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=misam-abbas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=22D3EE&text_color=CBD5E1&ring_color=7C3AED" />
@@ -228,18 +216,6 @@ A growing collection of experiments weaving AI into modern web features.
 ### 🔥  GitHub Streak
 
 <img src="https://streak-stats.demolab.com/?user=misam-abbas&theme=tokyonight&hide_border=true&background=000000&ring=A855F7&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&currStreakNum=CBD5E1&sideNums=CBD5E1&dates=64748B" />
-
-<br/><br/>
-
-### 🧬  Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misam-abbas&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&text_color=CBD5E1&langs_count=8" />
-
-<br/><br/>
-
-### 🏆  GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=misam-abbas&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 <br/><br/>
 
