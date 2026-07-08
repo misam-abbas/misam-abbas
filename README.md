@@ -1,12 +1,30 @@
 <div align="center">
 
-# Hi 👋, I'm Misam Abbas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Misam%20Abbas&fontSize=60&fontAlignY=35&animation=twinkling"/>
 
-### 🚀 Full-Stack Web Developer | Laravel • Next.js • JavaScript
+# 👋 Hi, I'm Misam Abbas
 
-Passionate about building modern, responsive, and high-performance web applications with clean UI and scalable backend architecture.
+### 🚀 Full-Stack Web Developer • ✨ Vibe Coder • 💡 AI Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Laravel+Developer;Next.js+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Experiences;Laravel+Developer;Next.js+Learner;JavaScript+Enthusiast;Vibe+Coding+Every+Day+✨;Always+Learning+Something+New"/>
+
+<p>
+
+<a href="https://linkedin.com/in/misam-abbas-714199397">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:misamabb2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/misamsirohii__">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=misam-abbas&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -14,99 +32,144 @@ Passionate about building modern, responsive, and high-performance web applicati
 
 # 💫 About Me
 
-- 🔭 Currently building **Full-Stack Web Applications**
-- 🌱 Learning **Next.js, TypeScript, Laravel & AI Development**
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 💡 Interested in **Modern UI/UX, APIs & Backend Development**
-- 💬 Ask me about **HTML, CSS, JavaScript, Laravel, Vercel & GitHub**
-- ⚡ Fun fact: *I enjoy turning ideas into beautiful web experiences.*
+```ts
+const Misam = {
+
+ nickname: "Vibe Coder ✨",
+
+ role: "Full Stack Web Developer",
+
+ location: "Pakistan 🇵🇰",
+
+ currentlyWorkingOn: [
+   "Modern Web Applications",
+   "AI Powered Projects",
+   "Open Source"
+ ],
+
+ currentlyLearning: [
+   "Next.js",
+   "Laravel",
+   "TypeScript",
+   "AI Development"
+ ],
+
+ askMeAbout: [
+   "HTML",
+   "CSS",
+   "JavaScript",
+   "Laravel",
+   "GitHub",
+   "Vercel"
+ ],
+
+ lifePhilosophy:
+ "Build products people love, not just projects."
+
+}
+```
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ Tech Stack
 
-<p align="left">
-<a href="https://linkedin.com/in/misam-abbas-714199397">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+<div align="center">
 
-<a href="https://instagram.com/misamsirohii__">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
+## Languages
 
-<a href="mailto:misamabb2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php"/>
 
----
+## Frameworks
 
-# 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,nodejs,bootstrap,tailwind"/>
 
-### Languages
+## Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase"/>
 
-### Frameworks & Libraries
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,nodejs,bootstrap,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,postman"/>
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,npm,postman" />
-</p>
+</div>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=misam-abbas&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=misam-abbas&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misam-abbas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misam-abbas&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=misam-abbas&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=misam-abbas&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=misam-abbas&theme=tokyonight&no-frame=true&row=1&column=7)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=misam-abbas&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=misam-abbas&theme=tokyo-night)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=misam-abbas&theme=tokyo-night"/>
+
+</div>
 
 ---
 
-# ✍️ Quote
+# 🚀 Featured Projects
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+| Project | Description |
+|---------|-------------|
+| 📚 Library Management System | Secure Full Stack Library Management System |
+| 🎓 Student Result Management | Student Portal with Admin Dashboard |
+| 🌐 Portfolio Website | Modern Personal Portfolio |
+| 🤖 AI Projects | AI-powered web applications |
+
+---
+
+# 💻 Currently Learning
+
+```text
+███████████████████░░░░░░  HTML/CSS
+
+██████████████████░░░░░░░ JavaScript
+
+████████████████░░░░░░░░░ Laravel
+
+██████████████░░░░░░░░░░░ Next.js
+
+███████████░░░░░░░░░░░░░░ AI Development
+```
+
+---
+
+# 💭 Developer Quote
+
+> **"Code with logic. Design with passion. Ship with confidence."**
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=misam-abbas&label=Profile+Views&color=0e75b6&style=flat)
+### ⭐ If you like my work, consider giving a ⭐ to my repositories.
 
-### ⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=140"/>
 
 </div>
