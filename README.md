@@ -103,18 +103,6 @@ features into modern, production-grade web apps.
 <sub>CLOUD</sub> <br/> <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
 
 </div>
-## 🤖 AI Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-D97706?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/xAI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mistral_AI-7A5AF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Perplexity-20B8A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge"/>
-</p>
 
 <br/><br/>
 
